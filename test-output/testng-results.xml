@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-11T14:53:54 EST" name="OrangeHRM" finished-at="2023-02-11T14:54:45 EST" duration-ms="51469">
+    <groups>
+    </groups>
+    <test started-at="2023-02-11T14:53:54 EST" name="TestNG" finished-at="2023-02-11T14:54:45 EST" duration-ms="51469">
+      <class name="testLayer.LoginTestcases">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:53:54 EST" name="initsetup" finished-at="2023-02-11T14:54:01 EST" duration-ms="6907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="title()[pri:1, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:01 EST" name="title" finished-at="2023-02-11T14:54:01 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:01 EST" name="close" finished-at="2023-02-11T14:54:01 EST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:02 EST" name="initsetup" finished-at="2023-02-11T14:54:07 EST" duration-ms="5169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:07 EST" name="login" data-provider="Details" finished-at="2023-02-11T14:54:11 EST" duration-ms="4360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:11 EST" name="close" finished-at="2023-02-11T14:54:11 EST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:11 EST" name="initsetup" finished-at="2023-02-11T14:54:17 EST" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:17 EST" name="login" data-provider="Details" finished-at="2023-02-11T14:54:21 EST" duration-ms="4250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deepu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:21 EST" name="close" finished-at="2023-02-11T14:54:22 EST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:22 EST" name="initsetup" finished-at="2023-02-11T14:54:30 EST" duration-ms="8433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:30 EST" name="login" data-provider="Details" finished-at="2023-02-11T14:54:34 EST" duration-ms="4275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ann]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:34 EST" name="close" finished-at="2023-02-11T14:54:35 EST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:35 EST" name="initsetup" finished-at="2023-02-11T14:54:41 EST" duration-ms="5818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:41 EST" name="login" data-provider="Details" finished-at="2023-02-11T14:54:45 EST" duration-ms="4332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mmmani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTestcases@74fe5c40]" started-at="2023-02-11T14:54:45 EST" name="close" finished-at="2023-02-11T14:54:45 EST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginTestcases -->
+    </test> <!-- TestNG -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
