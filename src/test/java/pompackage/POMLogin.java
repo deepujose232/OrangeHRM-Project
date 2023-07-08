@@ -33,7 +33,7 @@ public class POMLogin extends BaseHRMClass {
 	}
 	public String checktitle() {
 		return driver.getTitle();
-		Sytem.out.println("abcd");
+		System.out.println("abcd");
 		
 	}
 	
