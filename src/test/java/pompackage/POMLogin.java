@@ -30,10 +30,11 @@ public class POMLogin extends BaseHRMClass {
 	public void clicklogin() throws InterruptedException {
 		Loginbtn.click();
 		//Thread.sleep(2000);
+		System.out.println("abcd");
 	}
 	public String checktitle() {
 		return driver.getTitle();
-		System.out.println("abcd");
+		
 		
 	}
 	
